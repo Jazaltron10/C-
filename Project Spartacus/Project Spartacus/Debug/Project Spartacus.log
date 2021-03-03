@@ -1,0 +1,5 @@
+﻿  Main.cpp
+  functions .cpp
+  Generating Code...
+C:\Users\Jasper Albert Nri\source\repos\Project Spartacus\Project Spartacus\functions .cpp(17,20): warning C4244:  '=': conversion from 'double' to 'int', possible loss of data
+  Project Spartacus.vcxproj -> C:\Users\Jasper Albert Nri\source\repos\Project Spartacus\Debug\Project Spartacus.exe
